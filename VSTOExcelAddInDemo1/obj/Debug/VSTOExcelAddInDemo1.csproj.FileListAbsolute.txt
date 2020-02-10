@@ -1,0 +1,12 @@
+C:\etc\Sources\VisualStudio2019\GitRepos\ALLINONE\VSTOExcelAddInDemo1\VSTOExcelAddInDemo1\bin\Debug\VSTOExcelAddInDemo1.dll
+C:\etc\Sources\VisualStudio2019\GitRepos\ALLINONE\VSTOExcelAddInDemo1\VSTOExcelAddInDemo1\bin\Debug\VSTOExcelAddInDemo1.pdb
+C:\etc\Sources\VisualStudio2019\GitRepos\ALLINONE\VSTOExcelAddInDemo1\VSTOExcelAddInDemo1\bin\Debug\VSTOExcelAddInDemo1.dll.manifest
+C:\etc\Sources\VisualStudio2019\GitRepos\ALLINONE\VSTOExcelAddInDemo1\VSTOExcelAddInDemo1\bin\Debug\VSTOExcelAddInDemo1.vsto
+C:\etc\Sources\VisualStudio2019\GitRepos\ALLINONE\VSTOExcelAddInDemo1\VSTOExcelAddInDemo1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\etc\Sources\VisualStudio2019\GitRepos\ALLINONE\VSTOExcelAddInDemo1\VSTOExcelAddInDemo1\obj\Debug\VSTOExcelAddInDemo1.Properties.Resources.resources
+C:\etc\Sources\VisualStudio2019\GitRepos\ALLINONE\VSTOExcelAddInDemo1\VSTOExcelAddInDemo1\obj\Debug\VSTOExcelAddInDemo1.csproj.GenerateResource.cache
+C:\etc\Sources\VisualStudio2019\GitRepos\ALLINONE\VSTOExcelAddInDemo1\VSTOExcelAddInDemo1\obj\Debug\VSTOExcelAddInDemo1.csproj.CopyComplete
+C:\etc\Sources\VisualStudio2019\GitRepos\ALLINONE\VSTOExcelAddInDemo1\VSTOExcelAddInDemo1\obj\Debug\VSTOExcelAddInDemo1.dll
+C:\etc\Sources\VisualStudio2019\GitRepos\ALLINONE\VSTOExcelAddInDemo1\VSTOExcelAddInDemo1\obj\Debug\VSTOExcelAddInDemo1.pdb
+C:\etc\Sources\VisualStudio2019\GitRepos\ALLINONE\VSTOExcelAddInDemo1\VSTOExcelAddInDemo1\bin\Debug\VBATest.txt
+C:\etc\Sources\VisualStudio2019\GitRepos\ALLINONE\VSTOExcelAddInDemo1\VSTOExcelAddInDemo1\obj\Debug\VSTOExcelAddInDemo1.csprojAssemblyReference.cache

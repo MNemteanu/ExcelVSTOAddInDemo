@@ -1,0 +1,5 @@
+﻿Private Const VBAVersion = "2002101420"
+
+Sub TestVBACall_VBASub()
+   MsgBox ("You clicked the Test VBA Call button... " & VBAVersion)
+End Sub
